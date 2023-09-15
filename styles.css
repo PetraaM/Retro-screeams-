@@ -1,0 +1,120 @@
+.container {
+    background-image: url(greenbackground.jpg);
+    font-family: 'VT323', monospace;
+    
+}
+
+
+.site-header {
+    background-color: gray;
+    text-align: center;
+    border: 10px solid darkgreen;
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+
+
+.it {
+    width: 100px;
+}
+.site-header-title {
+    font-size: 45px;
+}
+
+.site-content {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+    font-size: 20px;
+}
+
+.content-box-gallery-1 {
+    background-color: gray;
+    border: 10px solid darkgreen;
+    margin: 10px;
+    width: 13rem;
+    height: 30rem;
+}
+
+.gallery-images {
+    display: flexbox;
+    flex-direction: column;
+    position: absolute;
+    margin: 22px;
+    margin-top: 15px;
+    justify-content: space-around;
+    
+}
+
+.pennywise {
+    display: block;
+    width: 10rem;
+    height: 5rem; 
+    margi
+}
+
+.michaelmeyers {
+    display: block;
+    margin-top: 15px;
+    
+}
+
+.ghostface {
+    display: block;
+    width: 10rem;
+    margin-top: 30px;
+}
+
+
+.gallery-images-2 {
+    display: flexbox;
+    flex-direction: column;
+    position: absolute;
+    margin: 22px;
+    margin-top: 15px;
+    justify-content: space-around;
+}
+
+.chucky{
+    display: block;
+    margin-top: 10px;
+    margin-left: 12px;
+    width: 135px;
+}
+
+.jigsaw {
+    width: 135px;
+    margin-top: 10px;
+    margin-left: 12px;
+}
+
+.it {
+    width: 135px;
+    margin-top: 10px;
+    margin-left: 12px;
+}
+
+.content-box-1 {
+    background-color: gray;
+    border: 10px solid darkgreen;
+    text-align: center;
+    margin: 10px;
+    width: 50rem;
+    height: 30rem;
+}
+
+.content-box-gallery-2 {
+    background-color: grey;
+    border: 10px solid darkgreen;
+    margin: 10px;
+    width: 13rem;
+    height: 30rem;
+}
+
+.underconstruction{
+    text-align: center;
+    background-image: url(greenbackground.jpg);   
+}
+
+
+
